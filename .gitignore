@@ -8,3 +8,6 @@
 *.bak
 *.mdf
 *.ldf
+
+*.cache
+*.log
